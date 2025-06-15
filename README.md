@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository for the **KALIMM DSA Series**, a free and beginner-friendly collection of Data Structures and Algorithms (DSA) tutorials in C++. This repo is part of the YouTube series [KALIMM](https://www.youtube.com/@KALIMM), where we aim to make learning DSA simple, practical, and effective for every aspiring coder.
 
-> 🔔 Subscribe and follow along with the YouTube series: [KALIMM YouTube Channel](https://www.youtube.com/@KALIMM)
+> 🔔 Subscribe and follow along with the YouTube series: [KALIMM YouTube Channel]([(https://www.youtube.com/@KALIMM-1))
 
 ---
 
